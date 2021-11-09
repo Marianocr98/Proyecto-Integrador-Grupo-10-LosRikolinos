@@ -22,8 +22,9 @@ Ofrece a los amantes de la buena cocina una oferta gastronómica donde abundan l
 - https://www.kiwilimon.com/ : Usado de referencia para el Detalle del producto.
 - https://www.donuscompany.com/#6
 - https://brubank.com/ : Usado de referencia para RegistrationForm
-- https://airescriollos.com.ar/
-- https://www.migustoesdiferente.com.ar/
+- https://airescriollos.com.ar/ :Usado de referencia para hacer el carrito de comprar
+- https://www.migustoesdiferente.com.ar/ : 
+ Usado de referencia para hacer el home Menu y Productos.
 - https://github.com/ : Usado de referencia para el login.
 
 
