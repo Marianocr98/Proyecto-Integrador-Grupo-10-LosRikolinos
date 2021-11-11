@@ -11,7 +11,7 @@ Los Rikolinos nos invita a disfrutar de la excelencia de la gastronomia Argentin
 
 Ofrece a los amantes de la buena cocina una oferta gastronómica donde abundan los cortes y los platos más tradicionales de la cocina criolla.
 
-...Gracias por siempre elegirnos... 
+...Gracias por siempre elegirnos... .
 
 ***
 
